@@ -26,7 +26,7 @@ services:
       retries: 10
 
   backend:
-    image: bqlpfy/springboot-backend:latest
+    image: hobbyhot/springboot-backend:latest
     container_name: springboot-backend
     restart: unless-stopped
     environment:
@@ -55,7 +55,7 @@ services:
       start_period: 90s
 
   frontend:
-    image: bqlpfy/vite-frontend:latest
+    image: hobbyhot/vite-frontend:latest
     container_name: vite-frontend
     restart: unless-stopped
     ports:
