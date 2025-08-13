@@ -312,12 +312,12 @@ export default function AdminLayout({
             <p className="text-xs text-gray-400 dark:text-gray-500">
               Powered by{' '}
               <a 
-                href="https://github.com/bqlpfy/forward-panel" 
+                href="" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-gray-500 dark:text-gray-400 hover:text-gray-600 dark:hover:text-gray-300 transition-colors"
               >
-                哆啦A梦
+                大雄奇幻冒险
               </a>
             </p>
           </div>
