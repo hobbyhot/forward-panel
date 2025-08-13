@@ -3,7 +3,7 @@
 #### 快速部署
 
 ```bash
-curl -L https://raw.githubusercontent.com/hobbyhot/wiki-panel/refs/heads/main/panel_install.sh -o panel_install.sh && chmod +x panel_install.sh && ./panel_install.sh
+curl -L https://raw.githubusercontent.com/hobbyhot/forward-panel/refs/heads/main/panel_install.sh -o panel_install.sh && chmod +x panel_install.sh && ./panel_install.sh
 
 ```
 
